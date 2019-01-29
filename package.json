@@ -1,5 +1,5 @@
 {
-  "name": "ml-cart",
+  "name": "@digifi/ml-cart",
   "version": "1.0.8",
   "description": "CART decision tree algorithm",
   "main": "cart.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mljs/decision-tree-cart"
+    "url": "https://github.com/digifi-io/mljs/decision-tree-cart"
   },
   "keywords": [
     "CART",
@@ -35,9 +35,9 @@
   "author": "Jefferson Hernández",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mljs/decision-tree-cart/issues"
+    "url": "https://github.com/digifi-io/mljs/decision-tree-cart/issues"
   },
-  "homepage": "https://github.com/mljs/decision-tree-cart",
+  "homepage": "https://github.com/digifi-io/mljs/decision-tree-cart",
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
     "eslint": "^4.19.1",
